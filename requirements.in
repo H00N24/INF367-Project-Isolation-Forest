@@ -1,0 +1,12 @@
+numpy
+matplotlib
+pandas
+jupyter
+ipykernel
+scipy
+black
+nb_black
+scikit-learn
+umap-learn
+tqdm
+pip-tools
