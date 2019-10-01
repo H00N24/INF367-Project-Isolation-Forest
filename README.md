@@ -2,6 +2,9 @@
 
 Implementation and testing of Isolation Forest anomaly detection method
 
+### Solution
+Project assigment and are in `Project 1.ipynb` jupyter notebook.
+
 ### Prerequisities
 * python >=3.7
 * python venv/virtualenv library
